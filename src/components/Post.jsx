@@ -16,8 +16,13 @@ export function Post(props) {
             </header>
 
             <div className={styles.content}>
-                <p>Fala galeraa</p>
-                <p>Acabei de subir mais Acabei de subir maisAcabei de subir maisAcabei de subir mais</p>
+                <p>Kaizoku ni ore wa naru</p>
+                <p>If You Don't Want the Negative Reputation, You Shouldn't Be a Pirate.</p>
+                <p>
+                    <a href="">#yonkou</a>{' '}
+                    <a href="">#mugiwara</a>{' '}
+                    <a href="">#joyboy</a>
+                </p>
             </div>
         </article>
     )
