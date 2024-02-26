@@ -12,6 +12,11 @@
     --light-yellow: #FEC82E;
 }
 
+:focus {
+    outline: transparent;
+    box-shadow: 0 0 0 2px var(--yellow);
+}
+
 * {
     margin: 0;
     padding: 0;
