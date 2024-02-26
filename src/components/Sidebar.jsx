@@ -1,5 +1,6 @@
 import { PencilLine } from 'phosphor-react'
 import styles from './Sidebar.module.css'
+import { Avatar } from './Avatar'
 
 export function Sidebar() {
     return (
@@ -7,7 +8,7 @@ export function Sidebar() {
             <img className={styles.cover} src="https://symbols.vn/wp-content/uploads/2021/12/Hinh-bau-troi-dem-dep-Anime-vang-ve.jpg" alt="Cover Image" width="500px"></img>
 
             <div className={styles.profile}>
-                <img src="https://github.com/Luizenys.png" />
+                <Avatar src="https://github.com/Luizenys.png"></Avatar>
                 <strong>Monkey D. Luffy</strong>
                 <span>Pirate King</span>
             </div>
