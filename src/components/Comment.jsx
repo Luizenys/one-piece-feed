@@ -13,14 +13,13 @@ export function Comment() {
                             <strong>Monkey D. Luffy</strong>
                             <time title="10 de Fevereiro às 08:13h" dateTime="2024-02-10 08:13:30">Cerca de 1h atrás</time>
                         </div>
-
+                        <button title="Deletar comentário">
+                            <Trash size={24}></Trash>
+                        </button>
                     </header>
+
                     <p>Parabéns !!</p>
                 </div>
-
-                <button title="Deletar comentário">
-                    <Trash size={20}></Trash>
-                </button>
 
                 <footer>
                     <button>
