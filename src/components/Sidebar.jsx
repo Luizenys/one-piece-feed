@@ -8,7 +8,7 @@ export function Sidebar() {
             <img className={styles.cover} src="https://symbols.vn/wp-content/uploads/2021/12/Hinh-bau-troi-dem-dep-Anime-vang-ve.jpg" alt="Cover Image" width="500px"></img>
 
             <div className={styles.profile}>
-                <Avatar src="https://github.com/Luizenys.png"></Avatar>
+                <Avatar src="https://img.assinaja.com/upl/lojas/mundosinfinitos/imagens/foto-one-piece.png"></Avatar>
                 <strong>Monkey D. Luffy</strong>
                 <span>Pirate King</span>
             </div>
