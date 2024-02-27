@@ -28,7 +28,7 @@ const posts = [
       role: 'Samurai'
     },
     content: [
-      { type: 'paragraph', content: 'Por 5 anos de sua vida, Oden partiu para o mar e se tornou um pirata, servindo como comandante da 2ª divisão dos Piratas do Barba Branca e mais tarde se tornando um membro dos Piratas do Roger. Depois de encontrar o tesouro de Joy Boy em Laugh Tale, Oden viajou para casa e estabeleceu seu objetivo de abrir as fronteiras de Wano ao mundo, finalmente assumindo o lugar de seu pai como Shogun. No entanto, ele encontrou oposição de seu usurpador Kurozumi Orochi e do pirata Kaido, que o executaram 20 anos antes do presente.'},
+      { type: 'paragraph', content: 'Servindo como comandante da 2ª divisão dos Piratas do Barba Branca e mais tarde se tornando um membro dos Piratas do Roger. Depois de encontrar o tesouro de Joy Boy em Laugh Tale, Oden viajou para casa e estabeleceu seu objetivo de abrir as fronteiras de Wano ao mundo, finalmente assumindo o lugar de seu pai como Shogun. No entanto, ele encontrou oposição de seu usurpador Kurozumi Orochi e do pirata Kaido, que o executaram 20 anos antes do presente.'},
       { type: 'link', content: 'https://onepiece.fandom.com/pt/wiki/Kozuki_Oden'}
     ],
     publishedAt: new Date('2024-02-20 16:00:00')
